@@ -5,8 +5,8 @@ sudo apt update
 
 sudo apt upgrade
 
-sudo apt install synaptic arc-theme neofetch 
+snap refresh
 
-sudo add-apt-repository ppa:papirus/papirus
-sudo apt-get update
-sudo apt-get install papirus-icon-theme
+snap install codium atom
+
+cd Escritorio/ && wget ubuntu.com 
