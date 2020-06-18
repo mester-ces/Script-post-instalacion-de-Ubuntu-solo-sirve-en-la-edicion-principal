@@ -7,6 +7,6 @@ sudo apt upgrade
 
 snap refresh
 
-snap install codium atom
+wget https://launchpad.net/~atareao/+archive/ubuntu/atareao/+files/ubuntu-first-steps_0.1.0-20.04.032_all.deb
 
-cd Escritorio/ && wget ubuntu.com 
+sudo dpkg -i ubuntu-first-steps_0.1.0-20.04.032_all.deb
